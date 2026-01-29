@@ -1,0 +1,6 @@
+2026-01-28 10:00:01 INFO Server started
+2026-01-28 10:05:12 WARNING Low memory
+2026-01-28 10:10:45 ERROR Connection failed
+2026-01-28 10:12:00 INFO User login
+2026-01-28 10:15:22 ERROR Disk not found
+2026-01-28 10:20:00 INFO Scheduled backup complete
